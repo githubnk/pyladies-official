@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Cleveland PyLadies</title><link href="https://clepyladies.github.io/pyladies-official/" rel="alternate"></link><link href="https://clepyladies.github.io/pyladies-official/feeds/all.atom.xml" rel="self"></link><id>https://clepyladies.github.io/pyladies-official/</id><updated>2018-09-16T13:50:00-04:00</updated><entry><title>Contribute Content</title><link href="https://clepyladies.github.io/pyladies-official/get-started.html" rel="alternate"></link><published>2018-09-16T13:49:00-04:00</published><updated>2018-09-16T13:50:00-04:00</updated><author><name>Cleveland PyLadies</name></author><id>tag:clepyladies.github.io,2018-09-16:/pyladies-official/get-started.html</id><summary type="html">&lt;p&gt;Some helpful info for first-time contributors.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;So you want to make a PR&lt;/h1&gt;
+&lt;p&gt;GREAT! We love pull requests.
+The easiest way to get involved is to write about your experiences with Python and PyLadies on our blog.
+Here are a few steps to help you get started:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Decide what you will write. It may be helpful to draft it out in your word processor or text editor of choice first.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fork this repo!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add a .md file with your post in the 'content' folder &lt;strong&gt;on branch master&lt;/strong&gt;. Your file needs to have a line with the title
+&lt;code&gt;Title: {{ your awesome title here }}&lt;/code&gt;
+and may have any/all of the following metadata:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;Date: 2010-12-03 10:20&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Modified: 2020-12-05 19:30&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Category: Blog # PLEASE CHOOSE AN EXISTING CATEGORY - We may edit your category if it does not match our menu bar.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tags: pelican, publishing # Choose any tags you like! Tag it up!&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Slug: my-super-post # Defaults to your title, but you may set it directly.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Authors: Cleveland PyLadies, Floaty McFloatFace # Own it, lady!&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Summary: Short version for index and feeds # Again all of these are optional.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Your super content goes below your metadata block. Make sure to include a screen-reader guide to all markdown elements by including the code &lt;code&gt;{: aria-label='Your brief description for a screen-reader' }&lt;/code&gt; to ensure our site is as accessible as possible. Remember to commit changes with &lt;strong&gt;"Create a new branch for this commit and start a pull request"&lt;/strong&gt; before moving on!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Check to see if your fork is behind the main repo by any number of commits. These may cause problems if merge commits emerge between fork and PR.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make a new pull request on the main repo by selecting &lt;code&gt;compare across forks&lt;/code&gt; and setting your fork master as the head.
+(Remember to click the green button when the merge is available!)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BOOM! You're officially an open-source contributor.
+Shoot us an email or get at us on social if more than a week goes by and we haven't addressed your PR!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Open-Source"></category><category term="Contribute"></category><category term="Pull Requests"></category><category term="Newbies"></category><category term="First PR"></category><category term="Write"></category></entry><entry><title>Archive</title><link href="https://clepyladies.github.io/pyladies-official/archived-site.html" rel="alternate"></link><published>2018-09-16T09:03:00-04:00</published><updated>2018-09-16T09:04:00-04:00</updated><author><name>Cleveland PyLadies</name></author><id>tag:clepyladies.github.io,2018-09-16:/pyladies-official/archived-site.html</id><summary type="html">&lt;p&gt;Archived version of our gh-pages site.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a aria-label="Jump to about" href="https://clepyladies.github.io/pyladies-official/archived-site.html#about"&gt;About&lt;/a&gt; | &lt;a aria-label="Jump to socials" href="https://clepyladies.github.io/pyladies-official/archived-site.html#connect"&gt;Connect&lt;/a&gt; | &lt;a aria-label="Jump to resources" href="https://clepyladies.github.io/pyladies-official/archived-site.html#frequently-recommended-resources"&gt;Resources&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;a aria-label="About" href="#about"&gt;What is PyLadies?&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive Python user group explicitly focused on engaging women and underrepresented populations in tech, specifically in and around Northeast Ohio. We are a local chapter of the global Pyladies organization.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a aria-label="Socials" href="#connect"&gt;Connect with us!&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 aria-label="Socials"&gt;Socials&lt;/h3&gt;
+&lt;p&gt;We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on &lt;a aria-label="Twitter" href="https://www.twitter.com/CLEPyLadies/"&gt;Twitter&lt;/a&gt;, &lt;a aria-label="Facebook" href="https://www.facebook.com/clepyladies/"&gt;Facebook&lt;/a&gt;, &amp;amp; &lt;a aria-label="Instagram" href="https://www.instagram.com/CLEPyLadies/"&gt;Instagram&lt;/a&gt; as CLEPyLadies. We also love to promote local bloggers on &lt;a aria-label="Medium" href="https://medium.com/cleveland-pyladies/"&gt;our Medium publication&lt;/a&gt;. Check out our upcoming events on &lt;a aria-label="Meetup" href="https://www.meetup.com/CLE-PyLadies/"&gt;Meetup&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;We have channels on two Slack workspaces: &lt;a aria-label="PyLadies Global Slack" href="https://slackin.pyladies.com/"&gt;PyLadies global&lt;/a&gt; (as #Cleveland) and the &lt;a aria-label="Cleveland Tech Slack" href="https://cleveland-tech.slack.com/"&gt;Cleveland Tech&lt;/a&gt; (as #CLE-PyLadies). The local slack also has a #CLEpy channel for the general &lt;a aria-label="Cleveland Python User Group" href="https://www.clepy.org/"&gt;Cleveland Python User Group&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 aria-label="Speak at our meetup"&gt;Speak at our meetup&lt;/h3&gt;
+&lt;p&gt;We have a &lt;a aria-label="Papercall" href="https://www.papercall.io/clepyladies"&gt;papercall.io event page&lt;/a&gt; for submitting talk proposals. You can also reach out to us on Slack or by email if you would like to have a conversation about the topic you have in mind. We aim to stream at least 30 minutes of each meetup on our YouTube channel to facilitate remote participation by the mothers and working women in our community, but can work around any speaker privacy concerns.&lt;/p&gt;
+&lt;h3 aria-label="Collaborate"&gt;Contribute resources&lt;/h3&gt;
+&lt;p&gt;The source files for this page are in &lt;a aria-label="GitHub" href="https://github.com/CLEPyLadies/CLEPyLadies.github.io"&gt;a publicly available repo&lt;/a&gt;. Want to suggest a resource? Open an issue or make a pull request on the README.md file and we will review/merge it!&lt;/p&gt;
+&lt;h3 aria-label="Slide decks"&gt;Slide decks from past meetups&lt;/h3&gt;
+&lt;p&gt;2018_09_06: Raise Your Voice - &lt;a aria-label="Meetup" href="http://meetu.ps/e/FLvfB/DxhG9/f"&gt;Mini-Workshop on Being Visible in Tech&lt;/a&gt;&lt;br&gt;
+&lt;a aria-label="Write your first talk proposal" href="https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing"&gt;Write your first talk proposal&lt;/a&gt;&lt;br&gt;
+&lt;a aria-label="Tech Blogging" href="https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing"&gt;Why/How to Keep a Tech Blog&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a aria-label="Resources" href="#frequently-recommended-resources"&gt;FRR: Frequently recommended resources&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Here is a roundup of resources we commonly recommend:&lt;/p&gt;
+&lt;h3 aria-label="For newbies"&gt;For those with little to no programming experience - or just general code kata sources for keeping sharp!&lt;/h3&gt;
+&lt;p&gt;&lt;a aria-label="Codecademy" href="https://www.codecademy.com/learn/learn-python"&gt;Codecademy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="Free code camp" href="https://learn.freecodecamp.org/"&gt;Free Code Camp&lt;/a&gt;&lt;/p&gt;
+&lt;h3 aria-label="for data science"&gt;For Data Science&lt;/h3&gt;
+&lt;p&gt;&lt;a aria-label="Kaggle dot com" href="https://www.kaggle.com"&gt;Kaggle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="Data camp" href="https://www.datacamp.com/tracks/skill"&gt;DataCamp&lt;/a&gt;&lt;/p&gt;
+&lt;h3 aria-label="for web development"&gt;For Web Development&lt;/h3&gt;
+&lt;p&gt;&lt;a aria-label="Django Girls Tutorial" href="https://tutorial.djangogirls.org/"&gt;Django Girls Tutorial - Beginner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="Django Documentation Tutorial" href="https://docs.djangoproject.com/en/2.1/intro/tutorial01/"&gt;Django Documentation Tutorial - Intermediate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="Mozilla Django Tutorial" href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website"&gt;Mozilla Developer Network Django Tutorial - Advanced&lt;/a&gt;&lt;/p&gt;
+&lt;h3 aria-label="videos"&gt;Videos&lt;/h3&gt;
+&lt;p&gt;The &lt;a aria-label="YouTube" href="https://www.youtube.com/channel/UCrX6AAcxXO_-8gitJWdjkuw?view_as=subscriber"&gt;Cleveland PyLadies YouTube channel&lt;/a&gt; has archives of past livestreams, playlists of recommended tutorials, and links to other helpful YouTube resources. Check out the channels we follow for more learning resources, as well!&lt;/p&gt;
+&lt;h3 aria-label="podcasts"&gt;Podcasts we love&lt;/h3&gt;
+&lt;p&gt;&lt;a aria-label="Talk Python to Me" href="https://talkpython.fm/"&gt;Talk Python to Me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="Python Bytes" href="https://pythonbytes.fm/"&gt;Python Bytes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="Base C S Podcast" href="https://www.codenewbie.org/basecs"&gt;Base.CS Podcast&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="Podcast dot init" href="https://www.podcastinit.com/"&gt;Podcast.&lt;code&gt;__init__&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 aria-label="PyLadies Global"&gt;PyLadies global&lt;/h3&gt;
+&lt;p&gt;&lt;a aria-label="PyLadies Global website" href="https://www.pyladies.com/"&gt;PyLadies global website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="PyLadies Global Twitter" href="https://www.twitter.com/pyladies/"&gt;PyLadies on Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a aria-label="PyLadies organizer information" href="https://kit.pyladies.com/"&gt;Organizer info&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a aria-label="Back to top" href="https://clepyladies.github.io/pyladies-official/archived-site.html#about"&gt;Top&lt;/a&gt; | &lt;a aria-label="Jump to socials" href="https://clepyladies.github.io/pyladies-official/archived-site.html#connect"&gt;Connect&lt;/a&gt; | &lt;a aria-label="Jump to resources" href="https://clepyladies.github.io/pyladies-official/archived-site.html#frequently-recommended-resources"&gt;Resources&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category><category term="misc"></category><category term="resources"></category><category term="archive"></category></entry><entry><title>Hello world!</title><link href="https://clepyladies.github.io/pyladies-official/hello-world.html" rel="alternate"></link><published>2018-09-16T08:58:00-04:00</published><updated>2018-09-16T08:59:00-04:00</updated><author><name>Marissa Utterberg</name></author><id>tag:clepyladies.github.io,2018-09-16:/pyladies-official/hello-world.html</id><summary type="html">&lt;p&gt;First post from Cleveland PyLadies on our fancy Pelican site!&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the &lt;em&gt;first post&lt;/em&gt; from my Pelican blog. &lt;strong&gt;YAY!&lt;/strong&gt; You can contribute resources by cloning this repo, making your changes, and submitting a pull request. Create new content in &lt;a aria-label="Markdown language cheatsheet" href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"&gt;Markdown&lt;/a&gt;, a lightweigh markup language. Have fun!&lt;/p&gt;</content><category term="first"></category><category term="blog"></category><category term="misc"></category><category term="hello world"></category></entry></feed>
